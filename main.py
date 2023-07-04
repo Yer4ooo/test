@@ -16,3 +16,4 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 print("hello world")
+print("Today I started my way 04.07.2023!!!")
